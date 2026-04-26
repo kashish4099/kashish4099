@@ -1,4 +1,4 @@
-## My Info👋
+## My Info
 
 <!--
 **kashish4099/kashish4099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
