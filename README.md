@@ -5,10 +5,10 @@
 -->
 
 
--  I am currently in my Freshman year of college at Univeristy of South Florida
--  I plan to major in Finance with minor in videography
--  I would like to explore opportunities in Fiance and Technology in my upcoming years
--  I am well versed in MS OFfice, Power Point, AI tools, Python Programming, Capcut and looking for opportunities
--  You can reach me at kashish4099@gmail.com for opportunities
+I am currently a freshman at the University of South Florida.
+I plan to major in Finance with a minor in Videography.
+I am interested in exploring opportunities in Finance and Technology in the coming years.
+I am well-versed in MS Office, PowerPoint, AI tools, Python programming, and CapCut, and I am actively looking for relevant opportunities.
+You can reach me at kashish4099@gmail.com for opportunities.
 
 
